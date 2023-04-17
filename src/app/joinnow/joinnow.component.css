@@ -1,0 +1,26 @@
+.joinnow{
+    background-color: rgb(177, 184, 248);
+    padding: 140px 100px;
+
+}
+.login{
+    background-color: seashell;
+    border-radius: 10px;
+    padding: 15px 20px;
+    box-shadow: 5px 5px 5px 0px;
+}
+.btn{
+    margin-left: 38%;
+    width: 100px;
+    background-color: rgb(242, 223, 199);
+    border-color: rgb(176, 176, 235);
+}
+
+@media screen and (max-width:600px) {
+
+  .joinnow{
+    
+    padding: 140px 30px;
+
+}  
+}

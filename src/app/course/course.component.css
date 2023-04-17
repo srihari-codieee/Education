@@ -1,0 +1,23 @@
+.course{
+    background-color: rgb(177, 184, 248);
+    padding: 50px 100px;
+}
+.text-container{
+    margin-left: 43%;
+    color: rgb(7, 15, 223);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+.box{
+    background-color: rgb(201, 168, 239);
+    padding: 10px 10px;
+}
+
+@media screen and (max-width:600px) {
+
+   .course{
+    background-color: rgb(177, 184, 248);
+    padding: 50px 10px;
+}  
+}

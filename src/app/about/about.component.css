@@ -1,0 +1,47 @@
+
+h4{
+    margin-left: 46.5%;
+    margin-top: 50px;
+    color: rgb(82, 82, 233);
+}
+.media{
+    margin-left: 40%;
+    margin-top: 20px;
+    
+}
+.media a{
+    padding: 8px;
+    
+    
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: white;
+    border-radius: 10px;
+    margin-left: 10px;
+  }
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .about-container p{
+    padding: 10px;
+    
+  }
